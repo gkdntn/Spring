@@ -7,7 +7,6 @@ import com.ch02.sub1.Welcome;
 import com.ch02.sub2.Computer;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
  * 날짜 : 2024/09/02
